@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="txt_1">Unidades de Temperatura</string>
+    <string name="txt_2">Unidades de Distancia</string>
+    <string name="txt_3">Unidad</string>
+    <string name="txt_4">Resultado</string>
+    <string name="btn_9">Calcular</string>
+    <string name="btn_1">Celsius a Fahrenheit</string>
+    <string name="btn_2">Fahrenheit a Celsius</string>
+    <string name="btn_3">Celsius a Kelvin</string>
+    <string name="btn_4">Kelvin a Celsius</string>
+    <string name="btn_5">Metros a Centimetros</string>
+    <string name="btn_6">Centimetros a Metros</string>
+    <string name="btn_7">Centimetro a Pulgada</string>
+    <string name="btn_8">Pulgada a Centimetro</string>
+</resources>

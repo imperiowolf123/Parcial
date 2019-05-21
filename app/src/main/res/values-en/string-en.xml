@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <string name="app_name">Unit converter</string>
+        <string name="txt_1">Temperature Units</string>
+        <string name="txt_2">Distance Units</string>
+        <string name="txt_3">Unit</string>
+        <string name="txt_4">Result</string>
+        <string name="btn_9">Calculate</string>
+        <string name="btn_1">Celsius to Fahrenheit</string>
+        <string name="btn_2">Fahrenheit to Celsius</string>
+        <string name="btn_3">Celsius to Kelvin</string>
+        <string name="btn_4">Kelvin to Celsius</string>
+        <string name="btn_5">Meter to Centimeter</string>
+        <string name="btn_6">Centimeter to Meter</string>
+        <string name="btn_7">Centimeter to Inch</string>
+        <string name="btn_8">Inch to Centimeter</string>
+
+</resources>
